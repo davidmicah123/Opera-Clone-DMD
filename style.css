@@ -76,8 +76,6 @@
 .windows_icon{
     width: 5%;
 }
-
-
 .hero_plus{
     background: #92c1e9;
     padding-bottom: 10%;
@@ -175,7 +173,6 @@
     margin-left: 5vw;
     margin-top: 5%;
 }
-
 .grid2{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -183,7 +180,6 @@
     width: 90vw;
     margin-left: 5vw;
 }
-
 .grid3{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -227,7 +223,6 @@
     font-size: 22px;
     margin-left: 5%;
 }
-
 .do1{
     font-size: 7vh;
 }
@@ -240,8 +235,6 @@
 .do4{
     font-size: 7vh;
 }
-
-
 .get_started{
     background: rgba(32, 132, 217, .2);
     height: 80vh;
@@ -254,7 +247,6 @@
         margin-left: 5%;
         margin-right: 5%;
  }
- 
  .ready{
     color: #2084d9;
     margin-left: 5%;
@@ -266,25 +258,26 @@
  .start_text2{
     color: #2084d9;
  }
-    .start1{
-        font-size: 26px;
-    }
-    
-    .start2{
-        font-size: 16px;
-    }
+ 
+ .start1{
+    font-size: 26px;
+}
 
-    .switch_download{
-        display: flex;
-        justify-content: center;
-    }
-    .switch{
-        padding: 2vh;
-        color: white;
-        background: #00249c;
-        border: 0;
-        margin-top: 7%;
-    }
+.start2{
+    font-size: 16px;
+}
+
+.switch_download{
+    display: flex;
+    justify-content: center;
+}
+.switch{
+    padding: 2vh;
+    color: white;
+    background: #00249c;
+    border: 0;
+    margin-top: 7%;
+}
 .gaming_products{
     margin-left: 6vw;
     font-size: 8vh;
@@ -315,10 +308,6 @@
     margin-top: 3%;
     margin-bottom: 3%;
 }
-
-
-
-
 .boy_and_girl{
     background: pink;
     background-image: url("images/boy-n-girl.png");
@@ -400,7 +389,6 @@
 .company ul{
     list-style-type: none;
 }
-
 .opera_brand{
     width: 5vw;
 }
